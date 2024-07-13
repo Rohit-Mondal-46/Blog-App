@@ -75,7 +75,7 @@ function Singup() {
                             required: true,})}
                         />
                         <Button type="submit" className="w-full">
-                            Create Account
+                            Sign up
                         </Button>
                     </div>
                 </form>
